@@ -3,9 +3,11 @@ Exactly what the name says
 ---
 
 1. <b>Value Noise</b>
-- https://onecompiler.com/html/43sy76sdr
-- https://rbjjsvaluenoiseshader.oneapp.dev/
+- [One Compiler](https://onecompiler.com/html/43sy76sdr)
+- [One App](https://rbjjsvaluenoiseshader.oneapp.dev/)
+- [Shadertoy](https://www.shadertoy.com/view/wXyXRt)
 
 2. <b>Simplex Noise</b>
-- https://onecompiler.com/html/43t7vqjmk
-- https://rbjjssimplexnoiseshader.oneapp.dev/
+- [One Compiler](https://onecompiler.com/html/43t7vqjmk)
+- [One App](https://rbjjssimplexnoiseshader.oneapp.dev/)
+- [Shadertoy](https://www.shadertoy.com/view/3XSfD1)
